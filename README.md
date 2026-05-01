@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**ButterflyAli001/ButterflyAli001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Ali  
+I like building small games and experimenting with systems.
 
-Here are some ideas to get you started:
+## 🔧 What I'm working on
+- 🎮 Game development with Godot
+- 🤖 Simple AI systems
+- 🧠 Learning new mechanics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Goals
+- Build fun and addictive games
+- Share useful systems for other developers
+
+## 📫 Contact
+- Coming soon...
