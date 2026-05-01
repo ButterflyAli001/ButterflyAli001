@@ -32,9 +32,6 @@
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=ButterflyAli001&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=a78bfa&icon_color=6ee7b7&text_color=e2e8f0&bg_color=0f0f1a"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ButterflyAli001&layout=compact&theme=tokyonight&hide_border=true&title_color=a78bfa&text_color=e2e8f0&bg_color=0f0f1a&langs_count=6"/>
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=ButterflyAli001&theme=tokyonight&hide_border=true&background=0f0f1a&ring=a78bfa&fire=f472b6&currStreakLabel=a78bfa&font=Fira+Code)](https://git.io/streak-stats)
 
 </div>
