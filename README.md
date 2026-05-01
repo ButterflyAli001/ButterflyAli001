@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/ButterflyAli001/ButterflyAli001/blob/2838483ce3afd384fa7358e7c74bca0ac0c86162/ButterflyAli001-pf.png" alt="banner" width="300"/>
+</p>
+
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&height=60&lines=Hi%2C+I'm+ButterflyAli001+%F0%9F%91%8B;Android+Developer;Game+Developer;Systems+Programmer)](https://git.io/typing-svg)
