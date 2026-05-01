@@ -48,14 +48,6 @@
 
 [![Email](https://img.shields.io/badge/AliDevBegginer@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alidevbegginer@gmail.com)
 [![Phone](https://img.shields.io/badge/WhatsApp-%2B62_851_5660_0402-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6285156600402)
-[![Instagram](https://img.shields.io/badge/Instagram-Coming Soon-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com)
-
-</div>
-
----
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=4000&pause=2000&color=6B7280&center=true&vCenter=true&width=400&height=30&lines=Thanks+for+visiting+%3A))](https://git.io/typing-svg)
+[![Instagram](https://img.shields.io/badge/Instagram-@NantiKalauUdahDibuat-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com)
 
 </div>
